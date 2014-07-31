@@ -15,9 +15,9 @@ angular
         'ngRoute',
         'ngSanitize',
         'ngTouch',
-        'mgcrea.ngStrap',
         'facebook',
-        'google-maps'
+        'google-maps',
+        'mgcrea.ngStrap'
     ])
     .config(function($routeProvider, FacebookProvider) {
 
